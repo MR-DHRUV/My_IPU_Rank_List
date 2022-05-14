@@ -25,6 +25,7 @@ const Login = (props) => {
             setloading(true)
             await login(emailRef.current.value, passwordRef.current.value)
             await history.push('/')
+            history.go()
         }
         catch (error) {
             seterror("Failed to create an accont")

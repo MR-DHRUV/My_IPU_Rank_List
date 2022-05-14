@@ -1,5 +1,5 @@
 footer {
-  background-color: black;
+  background-color: #041d54;
   height: 40vh;
   padding: 2rem;
   display: flex;
@@ -19,7 +19,8 @@ footer {
   color: white;
 }
 .Sitelink {
-  color: #041d54;
+  color: #0d6efd;
+  text-decoration: none;
 }
 .footerc {
   display: flex;
@@ -27,4 +28,7 @@ footer {
 }
 .myfootertext {
   color: #ffffffb3;
+}
+.my-f-img{
+  filter: saturate(0) !important;
 }

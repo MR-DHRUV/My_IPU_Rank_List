@@ -1,0 +1,28 @@
+.mylogincont{
+    margin-top: 30px !important;
+}
+.loginNav{
+
+    display: flex;
+    flex-direction: row;
+    margin: 1rem;
+    text-align: center;
+    justify-content: center;
+}
+.loginSignup{
+    margin-top: 30px !important;
+}
+.logTotal{
+    height: 90vh;
+}
+.myreLink{
+    color:  #041d54;
+    text-decoration: none;
+}
+.myreLink:hover{
+    color:  #041d54;
+    text-decoration: none;
+}
+.myHeadMain{
+    color: #041d54;
+}

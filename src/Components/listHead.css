@@ -1,0 +1,13 @@
+.list-main-head{
+    background-color: #041d54;
+    color: white !important;
+    border-color: white;
+}
+.myLiLink{
+    text-decoration: none;
+    color: black;
+}
+.myLiLink:hover{
+    text-decoration: none;
+    color: black;
+}

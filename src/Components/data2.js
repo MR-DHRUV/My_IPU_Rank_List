@@ -1,0 +1,67 @@
+const semData = [
+{
+'Marks':   '889 / 1300',
+'Percentage':   '68.385',
+'Credit_Marks':   '1735 / 2700',
+'Credit_Percentage':   '64.259',
+'SGPA':   '7.185',
+'Equivalent_Percentage':  '71.9',
+'Credits_Obtained':   '27 / 27' },
+{
+'Marks':   '1200 / 1300',
+'Percentage':   '88.385',
+'Credit_Marks':   '1985 / 2700',
+'Credit_Percentage':   '79.259',
+'SGPA':   '7.885',
+'Equivalent_Percentage':  '78.9',
+'Credits_Obtained':   '25 / 27' },
+{
+'Marks':   '1089 / 1200',
+'Percentage':   '81.385',
+'Credit_Marks':   '2345 / 2500',
+'Credit_Percentage':   '87.259',
+'SGPA':   '8.995',
+'Equivalent_Percentage':  '84.9',
+'Credits_Obtained':   '28 / 31' },
+{
+'Marks':   '889 / 1300',
+'Percentage':   '68.385',
+'Credit_Marks':   '1735 / 2700',
+'Credit_Percentage':   '64.259',
+'SGPA':   '7.185',
+'Equivalent_Percentage':  '71.9',
+'Credits_Obtained':   '21 / 24' },
+{
+'Marks':   '889 / 1300',
+'Percentage':   '68.385',
+'Credit_Marks':   '1735 / 2700',
+'Credit_Percentage':   '64.259',
+'SGPA':   '7.185',
+'Equivalent_Percentage':  '71.9',
+'Credits_Obtained':   '27 / 27' },
+{
+'Marks':   '889 / 1300',
+'Percentage':   '68.385',
+'Credit_Marks':   '1735 / 2700',
+'Credit_Percentage':   '64.259',
+'SGPA':   '7.185',
+'Equivalent_Percentage':  '71.9',
+'Credits_Obtained':   '27 / 27' },
+{
+'Marks':   '889 / 1300',
+'Percentage':   '68.385',
+'Credit_Marks':   '1735 / 2700',
+'Credit_Percentage':   '64.259',
+'SGPA':   '7.185',
+'Equivalent_Percentage':  '71.9',
+'Credits_Obtained':   '27 / 27' },
+{
+'Marks':   '889 / 1300',
+'Percentage':   '68.385',
+'Credit_Marks':   '1735 / 2700',
+'Credit_Percentage':   '64.259',
+'SGPA':   '7.185',
+'Equivalent_Percentage':  '71.9',
+'Credits_Obtained':   '27 / 27' }
+]
+export default semData

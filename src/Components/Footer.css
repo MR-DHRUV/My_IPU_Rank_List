@@ -1,0 +1,30 @@
+footer {
+  background-color: black;
+  height: 40vh;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+}
+.socialicons:hover {
+  filter: grayscale(100%);
+}
+.Sitelink:hover {
+  color: #6e6e6e;
+}
+
+.head {
+  color: white;
+}
+.Sitelink {
+  color: #041d54;
+}
+.footerc {
+  display: flex;
+  text-align: center;
+}
+.myfootertext {
+  color: #ffffffb3;
+}

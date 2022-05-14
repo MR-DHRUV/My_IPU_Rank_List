@@ -1,0 +1,33 @@
+.profileMain{
+    margin-top: 30px !important;
+    min-height: 90vh;
+}
+.mainProfileHeading{
+    color:  #041d54 !important;
+    font-weight: 600 !important;
+    text-transform: capitalize;
+}
+.mySemMarks{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    justify-content: flex-start;
+}
+.myGraphCont{
+    height: 40vh;
+}
+.myListItem-4{
+    width: 20%;
+}
+.myListItem-3{
+    width: 20%;
+}
+.myListItem-2{
+    width: 30%;
+}
+.myListItem-1{
+    width: 30%;
+}
+.myListHead{
+    color: #041d54;
+}

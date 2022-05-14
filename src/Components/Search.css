@@ -1,0 +1,38 @@
+.mainDivSearch{
+    min-height: 90vh;
+    margin-top: 70px;
+    margin-bottom: 80px;
+}
+.myFormS{
+    flex-direction: column;
+    margin-top: 30px !important;
+}
+.searchResults{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchResultsmain{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.myProfileCard{
+    margin-right: 2rem !important;
+    margin-left: 2rem !important;
+    height: 25vh;
+    min-height: 230px;
+}
+.candName{
+    color: #041d54;
+}
+.enrollMaindiv{
+    margin-top: 30px !important;
+    min-height: 90vh;
+}
+.cardHoverProfile:hover{
+    border: 2px solid #041d54;
+    cursor: pointer;
+    
+}

@@ -1,0 +1,90 @@
+.totalContainer{
+    margin-top: 30px;
+    margin-bottom: 150px;
+    min-height: 100vh;
+}
+
+.zero-item{
+    margin-right: 0px solid black !important;
+    width: 5%;
+    text-align: center !important;
+    min-width: 50px;
+}
+.first-item{
+    margin-right: 0px solid black !important;
+    margin-left: 0px solid black !important;
+    width: 30%;
+    min-width: 210px;
+
+}
+.second-item{
+    margin-right: 0px solid black !important;
+    margin-left: 0px solid black !important;
+    width: 30%;
+    min-width: 150px !important;
+}
+.third-item{
+    margin-right: 0px solid black !important;
+    margin-left: 0px solid black !important;
+    width: 25%;
+    min-width: 130px;
+
+
+}
+.fourth-item{
+    margin-left: 0px solid black !important;
+    width: 10%;
+    min-width: 130px;
+
+}
+.ranklist{
+    margin-top: 80px !important;
+}
+
+.myelement:hover{
+    color: white !important;
+    background-color: #041d54 !important;
+    
+}
+.tableHead{
+    color: #041d54 !important;
+    font-weight: 500 !important;
+}
+.listheadings{
+    position: sticky !important;
+}
+.my-Item{
+    cursor: pointer;
+}
+
+.myWholeItem:hover{
+    /* border: inset 2px solid #041d54; */
+}
+
+.myWholeItem:hover > .my-Item{
+    /* background-color: #041d54; */
+    color: white;
+    border-top:3px solid #041d54;
+    border-bottom:3px solid #041d54;
+    /* box-shadow: 0px 5px 2px #041d54 inset, 0px -5px 2px #041d54 inset; */
+    /* box-shadow: inset 0px 0px 2px 2px  #041d54; */
+}
+.myWholeItem:hover > .zero-item{
+    color: white;
+}
+
+
+/* .my-Item:hover{
+    outline: #041d54 !important;
+    border: inset 2px solid #041d54;
+} */
+
+/* .myWholeItem:hover > .myLiLink{
+    color: white !important;
+}
+.myWholeItem:hover > a{
+    color: white !important;
+}
+.myWholeItem:hover{
+    color: white !important;
+} */

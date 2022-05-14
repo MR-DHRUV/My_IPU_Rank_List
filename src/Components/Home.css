@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css?family=Luckiest+Guy");
+
+.tracking-in-contract {
+  -webkit-animation: tracking-in-contract 1s cubic-bezier(0.215, 0.61, 0.355, 1)
+    both;
+  animation: tracking-in-contract 1s cubic-bezier(0.215, 0.61, 0.355, 1) both;
+}
+
+@-webkit-keyframes tracking-in-contract {
+  0% {
+    letter-spacing: 1em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    letter-spacing: normal;
+    opacity: 1;
+  }
+}
+@keyframes tracking-in-contract {
+  0% {
+    letter-spacing: 1em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    letter-spacing: normal;
+    opacity: 1;
+  }
+}
+.mainHead {
+  color: black;
+  margin-top: 30px;
+}
+.StudentRankLst {
+  margin-top: 100px !important;
+  margin-bottom: 100px !important;
+}
+.myLi {
+  background-color: transparent;
+}
+
+.myLi:hover {
+  background-color: #041d54;
+  color: white;
+  animation: myAnimeFill 2s 1 ;
+}
+@keyframes myAnimeFill{
+  from{
+    background-size: 0% 100% !important;
+  }
+  to{
+    background-size: 100% 100% !important;
+  }
+}

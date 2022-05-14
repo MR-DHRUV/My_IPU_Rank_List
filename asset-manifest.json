@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/My_IPU_Rank_List/static/css/main.c29cb4b5.css",
-    "main.js": "/My_IPU_Rank_List/static/js/main.7ab2fe37.js",
+    "main.css": "/My_IPU_Rank_List/static/css/main.0104b58b.css",
+    "main.js": "/My_IPU_Rank_List/static/js/main.ae033ec9.js",
     "static/js/787.28cb0dcd.chunk.js": "/My_IPU_Rank_List/static/js/787.28cb0dcd.chunk.js",
     "static/media/PngItem_3589740.png": "/My_IPU_Rank_List/static/media/PngItem_3589740.519a4c8f8ccb78ede821.png",
-    "static/media/instagram.png": "/My_IPU_Rank_List/static/media/instagram.215038dedf4a7d829a4a.png",
     "index.html": "/My_IPU_Rank_List/index.html",
-    "main.c29cb4b5.css.map": "/My_IPU_Rank_List/static/css/main.c29cb4b5.css.map",
-    "main.7ab2fe37.js.map": "/My_IPU_Rank_List/static/js/main.7ab2fe37.js.map",
+    "main.0104b58b.css.map": "/My_IPU_Rank_List/static/css/main.0104b58b.css.map",
+    "main.ae033ec9.js.map": "/My_IPU_Rank_List/static/js/main.ae033ec9.js.map",
     "787.28cb0dcd.chunk.js.map": "/My_IPU_Rank_List/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c29cb4b5.css",
-    "static/js/main.7ab2fe37.js"
+    "static/css/main.0104b58b.css",
+    "static/js/main.ae033ec9.js"
   ]
 }
